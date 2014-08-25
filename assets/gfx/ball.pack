@@ -1,0 +1,446 @@
+
+ball.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg1
+  rotate: false
+  xy: 1, 701
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 1, 432
+  size: 427, 267
+  orig: 427, 267
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 483, 754
+  size: 427, 267
+  orig: 427, 267
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 330
+  size: 320, 100
+  orig: 320, 100
+  offset: 0, 0
+  index: -1
+game_over
+  rotate: false
+  xy: 1, 251
+  size: 256, 77
+  orig: 256, 77
+  offset: 0, 0
+  index: -1
+start_info
+  rotate: false
+  xy: 1, 172
+  size: 256, 77
+  orig: 256, 77
+  offset: 0, 0
+  index: -1
+continue
+  rotate: false
+  xy: 1, 70
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 483, 652
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 685, 652
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 323, 310
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+3ball
+  rotate: false
+  xy: 430, 570
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: 0
+3ball
+  rotate: false
+  xy: 430, 488
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: 1
+4ball
+  rotate: false
+  xy: 592, 570
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: 0
+4ball
+  rotate: false
+  xy: 592, 488
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: 1
+more
+  rotate: false
+  xy: 754, 530
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+5ball
+  rotate: false
+  xy: 445, 406
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: 0
+5ball
+  rotate: false
+  xy: 445, 324
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: 1
+music
+  rotate: false
+  xy: 607, 366
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: 0
+music
+  rotate: false
+  xy: 259, 188
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: 1
+sound
+  rotate: false
+  xy: 381, 188
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: 0
+sound
+  rotate: false
+  xy: 503, 202
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: 1
+run_left
+  rotate: false
+  xy: 912, 926
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 0
+run_left
+  rotate: false
+  xy: 912, 829
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 1
+1
+  rotate: false
+  xy: 912, 739
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+run_left
+  rotate: false
+  xy: 203, 75
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 2
+run_left
+  rotate: false
+  xy: 281, 91
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 3
+run_left
+  rotate: false
+  xy: 359, 91
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 4
+run_left
+  rotate: false
+  xy: 437, 91
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 5
+run_left
+  rotate: false
+  xy: 515, 105
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 6
+die
+  rotate: false
+  xy: 887, 661
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 0
+die
+  rotate: false
+  xy: 887, 661
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 1
+die
+  rotate: false
+  xy: 887, 661
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 4
+die
+  rotate: false
+  xy: 887, 661
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 5
+die
+  rotate: false
+  xy: 754, 452
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 2
+die
+  rotate: false
+  xy: 754, 452
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 6
+die
+  rotate: false
+  xy: 754, 452
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 7
+die
+  rotate: false
+  xy: 729, 374
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: 3
+run_left
+  rotate: false
+  xy: 625, 269
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 7
+2
+  rotate: false
+  xy: 625, 179
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 593, 97
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+run_right
+  rotate: false
+  xy: 703, 269
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 0
+3
+  rotate: false
+  xy: 703, 179
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 675, 97
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+run_right
+  rotate: false
+  xy: 781, 277
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 1
+run_right
+  rotate: false
+  xy: 781, 180
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 2
+ball
+  rotate: false
+  xy: 846, 448
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+run_right
+  rotate: false
+  xy: 876, 555
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 3
+ball
+  rotate: false
+  xy: 757, 97
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+run_right
+  rotate: false
+  xy: 839, 83
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 4
+gun_left
+  rotate: false
+  xy: 515, 23
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 0
+ball
+  rotate: false
+  xy: 593, 15
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+gun_left
+  rotate: false
+  xy: 675, 15
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 1
+gun_left
+  rotate: false
+  xy: 753, 15
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 2
+gun_left
+  rotate: false
+  xy: 831, 1
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 3
+run_right
+  rotate: false
+  xy: 928, 458
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 5
+gun_left
+  rotate: false
+  xy: 281, 9
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 4
+gun_right
+  rotate: false
+  xy: 359, 9
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 0
+gun_right
+  rotate: false
+  xy: 437, 9
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 1
+run_right
+  rotate: false
+  xy: 859, 351
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 6
+run_right
+  rotate: false
+  xy: 859, 254
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: 7
+gun_right
+  rotate: false
+  xy: 937, 376
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 2
+gun_right
+  rotate: false
+  xy: 937, 294
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 3
+gun_right
+  rotate: false
+  xy: 937, 212
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: 4
